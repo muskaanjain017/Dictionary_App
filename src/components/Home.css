@@ -1,0 +1,22 @@
+.centerAlign{
+    text-align: center;
+    padding:20px 0px;
+}
+.search input{
+    padding:15px 45px;
+    font-size: medium;
+}
+.search button{
+    padding: 15px 45px;
+    font-size: medium;
+    background-color: black;
+    color: white;
+}
+.leftPadding{
+    background-color: white;
+    margin: 20px 20px;
+    padding: 10px 15px;
+}
+.search{
+    background-color: lightgray;
+}
